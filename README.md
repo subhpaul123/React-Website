@@ -1,7 +1,7 @@
 ![screen](https://github.com/subhpaul123/React-Website/assets/131908041/c89e11dc-8774-4a49-abe3-2d45ee7f94ef)
-# React Crash 2024 - Job Management System
+# Job Management System
 
-React Crash 2024 is a simple job management application built using React and React Router. It allows users to create, update, delete, and view job postings. This project is designed to demonstrate the use of React components, hooks, and router in a real-world application.
+Job Management System is a simple application built using React and React Router. It allows users to create, update, delete, and view job postings. This project is designed to demonstrate the use of React components, hooks, and router in a real-world application.
 
 ## Features
 
