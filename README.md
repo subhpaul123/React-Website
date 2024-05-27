@@ -24,8 +24,13 @@ npm install
 ## Running the Application
 After installing the dependencies, you can start the application by running:
 ```bash
-npm start
+npm run dev
 ```
+and server by running:
+```bash
+npm run server
+```
+
 This will run the app in development mode. Open http://localhost:3000 to view it in the browser.
 
 ## Project Structure
