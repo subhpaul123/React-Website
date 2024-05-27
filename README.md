@@ -29,23 +29,23 @@ npm start
 This will run the app in development mode. Open http://localhost:3000 to view it in the browser.
 
 ## Project Structure
-**src/:** Contains all the source files for the project.
-**layouts/:** Contains layout components.
-**pages/:** Contains React components for each page.
-**App.jsx:** Main React component that includes routing and global state management.
+- **src/:** Contains all the source files for the project.
+- **layouts/:** Contains layout components.
+- **pages/:** Contains React components for each page.
+- **App.jsx:** Main React component that includes routing and global state management.
 
 
 ## Technologies Used
-**React:** A JavaScript library for building user interfaces.
-**React Router:** A standard library for routing in React.
-**Fetch API:** Used for handling HTTP requests to the backend API.
+- **React:** A JavaScript library for building user interfaces.
+- **React Router:** A standard library for routing in React.
+- **Fetch API:** Used for handling HTTP requests to the backend API.
 
 
 ## API Integration
 The application interacts with a simple backend through the following endpoints:
-**POST /api/jobs:** Adds a new job.
-**PUT /api/jobs/{id}:** Updates an existing job.
-**DELETE /api/jobs/{id}:** Deletes a job.
+- **POST /api/jobs:** Adds a new job.
+- **PUT /api/jobs/{id}:** Updates an existing job.
+- **DELETE /api/jobs/{id}:** Deletes a job.
 
 
 ## Contributing
