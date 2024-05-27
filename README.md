@@ -17,7 +17,7 @@ To get started with this project, clone the repository and install the dependenc
 
 ```bash
 git clone https://github.com/subhpaul123/React-Website.git
-cd react-crash-2024
+cd React-Website
 npm install
 ```
 
