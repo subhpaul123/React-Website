@@ -48,9 +48,9 @@ This will run the app in development mode. Open http://localhost:3000 to view it
 
 ## API Integration
 The application interacts with a simple backend through the following endpoints:
-- **POST /api/jobs:** Adds a new job.
-- **PUT /api/jobs/{id}:** Updates an existing job.
-- **DELETE /api/jobs/{id}:** Deletes a job.
+- **POST:** Adds a new job.
+- **PUT:** Updates an existing job.
+- **DELETE:** Deletes a job.
 
 
 ## Contributing
